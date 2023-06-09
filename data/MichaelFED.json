@@ -1,0 +1,22 @@
+{
+  "name":"Michael Ochei",
+  "type":"personal",
+  "bio":"Accountant turned full stack MERN developer. Likes to code,travel and play video games.",
+  "links": [
+    {
+      "name":"Twitter",
+      "url":"https://www.twitter.com/es_uche",
+      "icon": "FaTwitter"
+    },
+     {
+      "name":"Github",
+      "url":"https://www.github.com/MichaelFED",
+      "icon": "FaGithub"
+    },
+     {
+      "name":"LinkedIn",
+      "url":"https://www.linkedin.com/in/michael-ochei-b764ab127/",
+      "icon": "FaLinkedin"
+    },
+  ]
+}
